@@ -13,3 +13,26 @@ Basics of programming:
 --> Programming Languages serve as a middle-man of sorts
 
 --> Translate instruction into Machine code
+
+# Syntax
+
+--> Rules you must follow to run program correctly
+eg:
+
+- how you type out certain functions
+- How to write
+
+# Variables
+
+--> Something that can store information.
+--> It can be referenced and manipulated.
+
+- Types of Variables:
+
+primitive type variables
+--> Integers --> 4
+--> Booleans --> False
+--> floats --> 4.56
+--> double --> 2.50
+--> Strings --> "Hi"
+--> Char --> 'c'
