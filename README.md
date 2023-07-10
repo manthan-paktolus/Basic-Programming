@@ -94,3 +94,11 @@ primitive type variables
 
 --> A segment of code that can be easily run by "calling" the function name
 --> Depending on the type of function,may do something in return
+
+# Arguments
+
+--> Variables we pass into a function in order to be manipulated and then either
+
+- returned back to us
+- printed to the console
+- used in another operation
