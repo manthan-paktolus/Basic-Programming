@@ -36,3 +36,61 @@ primitive type variables
 --> double --> 2.50
 --> Strings --> "Hi"
 --> Char --> 'c'
+
+# Naming convention of variables
+
+--> They must be one continous string.
+--> must not start with numeric.
+--> special characters not allowed.
+--> keywords cannot be used as variable names.
+
+# Conditional Statements
+
+--> Depending on certain conditions , we want our code to do different things.
+
+--> if the condition is "true" do one thing or else do another thing.
+
+--> Each condition is evaluated as a boolean which is "true" or "false".
+
+# Arrays
+
+--> An array is a list of something.
+
+--> The single most important thing to note about arrays is how we reference each element inside of them.
+
+--> In programming we use indexes starts with 0
+
+# Loops
+
+--> A loops is a statement that is used to run certain instructions repeatedly
+
+--> very useful for repeated sections of code
+
+--> In loops we have three things:
+
+- starting value
+- A condition
+- increment/decrement
+
+# Errors
+
+--> Code doesn't always work as expected
+--> These are known as errors
+--> Three different types:
+
+- Syntax Errors:
+  --> Parts in your program where you fail to meet the programming rules,resulting in an error.
+- Rutime Errors:
+  --> Don't appear until you actually "run" the code
+- Logic Errors:
+  --> undesired output
+
+# Commenting
+
+--> Allows us to mark-up the code without the computer reading it as actual code.
+--> Essentially a documentation tool for programmers
+
+# Functions
+
+--> A segment of code that can be easily run by "calling" the function name
+--> Depending on the type of function,may do something in return
